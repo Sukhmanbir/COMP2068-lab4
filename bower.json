@@ -1,0 +1,24 @@
+{
+  "name": "0",
+  "description": "A project for COMP2068 Lab 4",
+  "main": "",
+  "authors": [
+    "Sukhmanbir Kaur"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public/Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
